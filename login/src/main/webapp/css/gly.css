@@ -1,0 +1,191 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.head{
+	background: #0A67FB;
+	height: 80px;
+}
+.daohang{
+	background: #236aec;
+	border: 1px solid slategrey;
+}
+.content{
+}
+
+.content1{
+	height: 950px;
+}
+.yonghu{
+
+	height: 90px;
+}
+.yonghuhead{
+	height: 60px;
+	width: 60px;
+	background: palegoldenrod;
+	border-radius: 100px;
+	-webkit-border-radius: 100px;
+	-moz-border-radius: 100px;
+}
+.yonghu1{
+	height: 90px;
+	width: 65px;
+	margin-left: 10px;
+	float: left;
+}
+.yonghu2{
+	border-right: 1px solid lightskyblue;
+	margin: 0px;
+	padding: 0px;
+	height: 85px ;
+	width: 400px;
+	float:left
+}
+.yonghu3{
+	margin: 0px;
+	padding: 0px;
+	height:80px ;
+	width: 45%;
+	float:left
+}
+.inputSearchExample1{
+	display: block;
+	width: 400px;
+	float: left;
+}
+.search-input{
+	width: 20%;
+	float: left;
+}
+.yonghu3-1{
+	margin-left: 20px;
+	margin-top: 20px;
+	height: 40px;
+	width: 100%;
+
+
+}
+.yonghu3-1 button{
+	margin: 5px;
+	float: left;
+}
+.yonghu1 input{
+	width: 60px;
+}
+.book1{
+	height: 400px;
+	clear: both;
+}
+.book2{
+	height: 400px;
+}
+.bottom{
+	display: block;
+	height: 50px;
+	line-height: 50px;
+	font-size: 20px;
+}
+.col-md-6{
+	height: 400px;
+}
+
+.uname{
+	height: 30px;
+	line-height: 30px;
+	font-size: 15px;
+	width: 100px;
+	margin-top: 8px;
+	padding: 0px;
+	display: inline-block;
+	text-align: right;
+
+}
+.uname2{
+	border: gainsboro 1px solid;
+	height: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	width: 250px;
+	margin-top: 8px;
+	padding: 0px;
+	display: inline-block;
+
+}
+.password{
+	height: 30px;
+	line-height: 30px;
+	font-size: 20px;
+	width: 350px;
+	margin-top: 8px;
+	padding: 0px;
+	display: inline-block;
+	text-align: center;
+
+}
+.book1-1{
+	height: 250px;
+}
+.book1-1 img{
+	width: 250px;
+	height: 200px;
+}
+.book1-2{
+	height: 250px;
+}
+.book1-3{
+	height: 150px;
+}
+.price{
+	display: block;
+	line-height: 35px;
+	font-size: 20px;
+	text-align: center;
+}
+.book-name{
+	margin-top: 5px;
+	height: 30px;
+	font-size: 15px;
+}
+.book-name-content{
+	display: block;
+	height: 40px;
+	height: 30px;
+	font-size: 20px;
+}
+.book-author{
+	margin-top: 5px;
+	height: 30px;
+	font-size: 15px;
+}
+.book-press{
+	margin-top: 5px;
+	height: 30px;
+	font-size: 15px;
+}
+.book1-3-head{
+	border: 1px solid gainsboro ;
+}
+.book1-3-content{
+	border: 1px solid gainsboro ;
+	height: 70%;
+}
+.book3,.book4{
+	margin-top: 10px;
+}
+.leibie{
+	margin-top: 10px;
+}
+#foot{
+
+	margin: 0px auto;
+	margin-top: 50px;
+	width: 1300px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	border-top: 1px solid gray;
+	color: dimgrey;
+}
+		
+		
